@@ -1,4 +1,4 @@
-# Matplotlib_Power_of_Plots
+# Cancer Medication Regimen
 
 # Observations 
 1.) Ramicane seems to be the second most promising cancer treatment second to capomulin. 

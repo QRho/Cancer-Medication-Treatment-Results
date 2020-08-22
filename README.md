@@ -1,4 +1,4 @@
-# Cancer Medication Regimen
+# Cancer Medication Treatment Regimens
 
 # Observations 
 1.) Ramicane seems to be the second most promising cancer treatment second to capomulin. 
